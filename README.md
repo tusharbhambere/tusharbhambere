@@ -18,11 +18,16 @@
 
   ## 🧑‍💻 About Me
 <ul>
-  <li><b>Android Development with Flutter:</b> Proficient in Android app development using Flutter, creating modern and user-friendly mobile applications.</li>
-  <li><b>Data Structure and Algorithm Problem Solver:</b> Skilled in solving complex data structure and algorithm problems using C++, with a focus on efficient and optimized solutions.</li>
-  <li><b>Computer Science Engineering Graduate:</b> Recently graduated with a degree in Computer Science Engineering, equipped with a solid foundation in computer science principles.</li>
-  <li><b>VFX Editing Enthusiast:</b> Passionate about VFX editing and skilled in using After Effects, Cinema 4D, and Blender to create stunning visual effects.</li>
-  <li><b>Unity3D Game Development:</b> Experienced in developing games using the Unity3D game engine, with a creative approach to designing immersive gameplay experiences.</li>
+<li><b>Cross-Platform Expertise:</b> A seasoned Flutter developer with a deep understanding of cross-platform development, proficient in crafting applications that seamlessly run on both Android and iOS platforms. Leveraging Flutter's single codebase approach, excelling in delivering high-quality and consistent user experiences across different devices.</li>
+<li><b>User Interface Design:</b> A keen eye for user interface design, creating visually appealing and intuitive interfaces that enhance the overall user experience. Proficient in implementing responsive layouts and custom animations to elevate the aesthetic appeal of mobile applications.</li>
+<li><b>State Management:</b> Well-versed in Flutter's state management techniques, ensuring efficient handling of application state and data flow. Capable of implementing solutions such as Provider, Bloc, or Riverpod to maintain a scalable and maintainable codebase.</li>
+<li><b>API Integration:</b> Experienced in integrating RESTful APIs and web services into Flutter applications. Proficient in handling asynchronous operations, ensuring smooth communication between the frontend and backend systems for seamless data exchange.</li>
+<li><b>Testing and Debugging:</b> Diligent in writing unit tests and conducting thorough debugging to ensure the reliability and robustness of Flutter applications. Capable of identifying and resolving issues promptly, ensuring a stable and error-free user experience.</li>
+<li><b>Continuous Integration/Continuous Deployment (CI/CD):</b> Familiar with implementing CI/CD pipelines to automate the build, testing, and deployment processes. Ensures efficient and rapid delivery of updates and new features, maintaining a streamlined development workflow.</li>
+<li><b>Collaborative Team Player:</b> Effective in collaborating with cross-functional teams, including designers, product managers, and backend developers. Excellent communication skills and the ability to work in an agile development environment, adapting to evolving project requirements.</li>
+<li><b>Up-to-Date with Latest Trends:</b> Actively stays informed about the latest trends and advancements in Flutter development and mobile technology. Engages in continuous learning to integrate cutting-edge features and best practices into projects.</li>
+<li><b>Passionate Problem Solver:</b> Enthusiastic about tackling complex problems and finding innovative solutions. Whether it's optimizing performance, improving user interactions, or addressing challenging technical issues, a proactive problem solver dedicated to delivering top-notch solutions.</li>
+<li><b>Documentation:</b> Proficient in creating clear and concise documentation for code, APIs, and application architecture. Ensures that project knowledge is well-documented for future reference and team collaboration.</li>
 </ul>
 
 <p>With this diverse skill set and educational background, I'm excited to explore new opportunities and make meaningful contributions in the tech and creative industries. 🚀</p>
@@ -49,7 +54,7 @@
 <br/><br/>
 
 
-[![Tushar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharbhambere&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tushar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharbhambere&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/tusharbhambere/github-readme-activity-graph)
   
 
 ## 🧠 Tech Stack
