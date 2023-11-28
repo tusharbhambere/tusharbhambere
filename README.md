@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Android+Developer;Web+Developer;Graphic+Designer;VFX+Artist;C%2B%2B+Lover">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Flutter+Developer;Riverpod+Enthusiast;Flutter+Hooks:Flutter Web;Android+Developer;iOs+Developer;">
 </p>
 
 
